@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define N 10000
+#define N 1000
 /**
  * prime numbers from 2 to 1000 
  */
