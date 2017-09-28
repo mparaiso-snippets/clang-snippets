@@ -1,3 +1,7 @@
+/**
+ * Addison.Wesley.Algorithms.4th.Edition.Mar.2011.ISBN.032157351X.pdf
+ * page 128
+ */
 package main
 
 import (
